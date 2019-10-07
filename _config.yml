@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+theme: jekyll-theme-cayman
 
 # Name of your site (displayed in the header)
 name: Your Name
@@ -52,7 +53,6 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-theme: jekyll-theme-architect
 
 permalink: /:title/
 
