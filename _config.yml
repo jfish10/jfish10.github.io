@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: jekyll-theme-minima
+theme: jekyll-theme-leap-day
 
 # Name of your site (displayed in the header)
 name: Blog Monster
